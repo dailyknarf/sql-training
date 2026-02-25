@@ -1,0 +1,9 @@
+1. select * from customers where country='italy' or country='brazil';
+
+2. select * from customers where customername like '%son%;
+
+3. select * from orders where orderdate like '1996-10-%' order by orderdate asc;
+
+4. select * from products where price>25;
+
+
